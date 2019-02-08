@@ -6,15 +6,16 @@ A script that generates a word cloud using an artist's lyrics using Python.
 
 ## Project Screen Shot(s)
 
-#### Example:   
+#### Example Output:   
 
 ![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/deathcabforcutie.png)
-![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/path/to/img.png)
-![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/path/to/img.png)
-![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/path/to/img.png)
-![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/path/to/img.png)
-![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/path/to/img.png)
-
+![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/elliotsmith.png)
+![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/frontbottoms.png)
+![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/froufrou.png)
+![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/johnmayer.png)
+![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/smashingpumpkins.png)
+![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/paramore.png)
+![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/radiohead.png)
 
 ## Installation and Setup Instructions
 
