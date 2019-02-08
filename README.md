@@ -10,12 +10,12 @@ A script that generates a word cloud using an artist's lyrics using Python.
 
 ![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/deathcabforcutie.png)
 ![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/elliottsmith.png)
-![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/frontbottoms.png)
-![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/froufrou.png)
-![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/johnmayer.png)
 ![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/smashingpumpkins.png)
-![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/paramore.png)
+![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/froufrou.png)
 ![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/radiohead.png)
+![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/frontbottoms.png)
+![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/johnmayer.png)
+![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/paramore.png)
 
 ## Installation and Setup Instructions
 
