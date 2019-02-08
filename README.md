@@ -9,7 +9,7 @@ A script that generates a word cloud using an artist's lyrics using Python.
 #### Example Output:   
 
 ![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/deathcabforcutie.png)
-![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/elliotsmith.png)
+![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/elliottsmith.png)
 ![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/frontbottoms.png)
 ![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/froufrou.png)
 ![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/johnmayer.png)
