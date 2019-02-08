@@ -5,9 +5,6 @@ Lyricloud
 A script that generates a word cloud using an artist's lyrics using Python.
 
 ## Project Screen Shot(s)
-
-#### Example Output:   
-
 ![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/deathcabforcutie.png)
 ![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/elliottsmith.png)
 ![alt text](https://raw.githubusercontent.com/aregna/lyricloud/master/smashingpumpkins.png)
@@ -21,23 +18,10 @@ A script that generates a word cloud using an artist's lyrics using Python.
 
 #### Example:  
 
-Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
+The dependencies for this project are those used in the following two libraries:
+https://github.com/amueller/word_cloud
+https://github.com/johnwmillr/LyricsGenius
 
-Installation:
-
-`npm install`  
-
-To Run Test Suite:  
-
-`npm test`  
-
-To Start Server:
-
-`npm start`  
-
-To Visit App:
-
-`localhost:3000/ideas`  
 
 ## Reflection
 
@@ -47,13 +31,9 @@ To Visit App:
   - What were some unexpected obstacles?
   - What tools did you use to implement this project?
       - This might seem obvious because you are IN this codebase, but to all other humans now is the time to talk about why you chose webpack instead of create react app, or D3, or vanilla JS instead of a framework etc. Brag about your choices and justify them here.  
+     
+     As a huge music fan I wanted to visualize common words in the lyrics of my favorite artists. Rather than reinventing the wheel, I looked into what technologies already existed to help me reach my end goal. The first is the Genius Lyrics wrapper and the second is a word_cloud generator. I create a simple python dictionary that maps words in lyrics to their frequency over the artists songs and then feed this into the word cloud generator code. I give the user options to input the arist and color scheme of their desire. 
 
-#### Example:  
+#### Future Improvements:  
 
-This was a 3 week long project built during my third module at Turing School of Software and Design. Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.  
-
-Originally I wanted to build an application that allowed users to pull data from the Twitter API based on what they were interested in, such as 'most tagged users'. I started this process by using the `create-react-app` boilerplate, then adding `react-router-4.0` and `redux`.  
-
-One of the main challenges I ran into was Authentication. This lead me to spend a few days on a research spike into OAuth, Auth0, and two-factor authentication using Firebase or other third parties. Due to project time constraints, I had to table authentication and focus more on data visualization from parts of the API that weren't restricted to authenticated users.
-
-At the end of the day, the technologies implemented in this project are React, React-Router 4.0, Redux, LoDash, D3, and a significant amount of VanillaJS, JSX, and CSS. I chose to use the `create-react-app` boilerplate to minimize initial setup and invest more time in diving into weird technological rabbit holes. In the next iteration I plan on handrolling a `webpack.config.js` file to more fully understand the build process.
+Now that I am in an Information Retrieval class, I'll be making some major updates to this project. Namely, instead of hardcoding a list of words I do not want to appear in my word clouds, I will find lists already compiled by others in the world of info retrival and linguistics. For example, what I called "filler words" in my script, can be replaced with a "stop words" dataset. I will also explore tokenization and other ways of visualizing the data. 
